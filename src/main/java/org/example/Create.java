@@ -1,4 +1,4 @@
-package com.mongodb.quickstart;
+package org.example;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
