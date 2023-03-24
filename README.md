@@ -1,4 +1,4 @@
-                                   # Linking Mongodb to Java
+                                   Linking Mongodb to Java
 
 You can link mongodb to your Java project using maven.
 
@@ -7,7 +7,7 @@ You can link mongodb to your Java project using maven.
 #### 1. Create a new maven project using intellij IDEA.
 #### 2. Copy the code in the pom.xml to your pom.xml file
 #### 3.Click on the Sync button in your 'Build tab'
-<img src="src/main/java/org.example/img.png">
+<img src="./src/main/java/org/example/img.png">
 
 #### 4. Make sure you have an active internet connection
 ### 5. 🥳🥳🥳🥳 Hurray you name have you mongodb setup with you Java Project
@@ -18,4 +18,4 @@ You can link mongodb to your Java project using maven.
 
 
 
-                    # Author Nusetor Delali Foster GodeMode 
+                    Author Nusetor Delali Foster GodeMode 
