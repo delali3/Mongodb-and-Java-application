@@ -12,15 +12,10 @@ You can link mongodb to your Java project using maven.
 #### 4. Make sure you have an active internet connection
 ### 5. 🥳🥳🥳🥳 Hurray you name have you mongodb setup with you Java Project
 #### 6. You can refer to the code in this repository to know how to perform basic CRUD operations
-
 #### 7. Incase you are still facing issues just clone this repository and start coding 😏.
 
 
 
 
 
-
-
-
-
-# Author Nusetor Delali Foster GodeMode 
+                    # Author Nusetor Delali Foster GodeMode 
